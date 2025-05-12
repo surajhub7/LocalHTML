@@ -2,3 +2,6 @@
   width : 600px;
   margin : 0 auto;
 }
+body {
+  background-color: yellow;
+}
