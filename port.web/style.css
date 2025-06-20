@@ -188,24 +188,24 @@ span{
 }
 @keyframes cursor{
     to{
-        border-left: 3px solid #b74b4b;
+        
     }
 }
 @keyframes word{
     0%, 20%{
-        content: "Developer"; 
+        content: "Student"; 
     }
     21%, 40%{
         content: "Software Developer";
     }
     40%, 60%{
-        content: "Computer science";
+        content: "Video Editor";
     }
     61%, 80%{
-        content: "space";
+        content: "Space lover";
     }
     81%, 100% {
-        content: "Music Art";
+        content: "Music and Art lover";
     }
 }
 @media(max-width: 1000px){
